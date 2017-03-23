@@ -17,8 +17,8 @@ public class Main
 			char c = num.charAt(i);
 			if(c == ' ')continue;
 			if(zero && c == '0')continue;
-			zero = false;
-			if(c != '.'){
+			if(sieve(c).length() == 1 )zero = false;
+			if(c != '.' && c != ','){
 				nw += sieve(c);
 			}
 			else {
