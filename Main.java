@@ -25,7 +25,13 @@ public class Main
 				"tredecillion","Quattuordecillion",
 				"quindecillion","sexdecillion",
 				"septendecillion","octodecillion",
-				"Novemdecillion","Vigintillion"
+				"Novemdecillion","Vigintillion",
+				"unvigintillion","duovigintillion",
+				"trevigintillion","quattuorvigintillion",
+				"quinvigintillion","sexvigintillion",
+				"septenvigintillion","octovigintillion",
+				"novemvigintillion","trigintillion",
+				"untrigintillion","duotrigintillion"
 				
 			};
 			int ind = g - 2;
@@ -98,7 +104,13 @@ public class Main
 			"tredecillion","Quattuordecillion",
 			"quindecillion","sexdecillion",
 			"septendecillion","octodecillion",
-			"Novemdecillion","Vigintillion"
+			"Novemdecillion","Vigintillion",
+			"unvigintillion","duovigintillion",
+			"trevigintillion","quattuorvigintillion",
+			"quinvigintillion","sexvigintillion",
+			"septenvigintillion","octovigintillion",
+			"novemvigintillion","trigintillion",
+			"untrigintillion","duotrigintillion"
 
 		};
 	for(int wor = 1; wor<w.length;wor++){
